@@ -31,11 +31,11 @@
 .condensed{
   height: 0;
   overflow: hidden;
-  transition: all 2s;
+  transition: all s;
 }
 
 .show{
   display:block ;
   height: 11.5rem;
-  transition: all 2s;
+  transition: all 1s;
 }
