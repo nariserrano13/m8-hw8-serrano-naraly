@@ -28,3 +28,10 @@
   border: 2px solid #fff;
   box-sizing: border-box;
 }
+.condensed{
+  display: none;
+}
+
+.show{
+  display:block ;
+}
